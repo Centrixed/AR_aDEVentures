@@ -1,5 +1,5 @@
 # AR aDEVentures
-This github contains the current(ish) working Unity directory for my AR testing & developments. I will update it periodically along with each new blog post!
+This github contains the current(ish) working Unity directory for my AR testing & developments. I will update it periodically along with each new post to [my blog](https://blog.mattundie.com/)!
 
 **Note:**
 - Requires [Unity 2021.1.0f1](https://unity3d.com/get-unity/download/archive)
